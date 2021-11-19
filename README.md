@@ -1,2 +1,1 @@
-# andersen_devops21
-Homework on Devops courses
+# Homework on Devops courses
